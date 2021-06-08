@@ -1,0 +1,15 @@
+projects:
+  appsyncEventbridgeAPI:
+    schemaPath: src/graphql/schema.json
+    includes:
+      - src/graphql/**/*.ts
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: typescript
+        generatedFileName: src/API.ts
+        docsFilePath: src/graphql
+        region: us-east-1
+        apiId: zp3sjxo5srdh7jgoha7cm4uazi
+        maxDepth: 2

@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bookmarkappeventdriv-dev-180114-authRole",
+      "UnauthRoleArn": "arn:aws:iam::495920662120:role/amplify-bookmarkappeventdriv-dev-180114-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::495920662120:role/amplify-bookmarkappeventdriv-dev-180114-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bookmarkappeventdriv-dev-180114-deployment",
+      "UnauthRoleName": "amplify-bookmarkappeventdriv-dev-180114-unauthRole",
+      "StackName": "amplify-bookmarkappeventdriv-dev-180114",
+      "StackId": "arn:aws:cloudformation:us-east-1:495920662120:stack/amplify-bookmarkappeventdriv-dev-180114/4a5e7cf0-c6c7-11eb-94b4-0eabd37574d3",
+      "AmplifyAppId": "dpe6qquje2q8r"
+    }
+  }
+}
